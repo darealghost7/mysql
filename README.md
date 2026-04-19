@@ -1,4 +1,4 @@
-Here is a **README file** written to sound like a **personal project** for your RGI Trucking database assignment.
+
 
 ---
 
