@@ -42,5 +42,6 @@ Databases are essential for any growing business
 Status
 ✅ Complete – All tables created, data inserted, relationships working, and in 3NF.
 
-<img width="940" height="515" alt="image" src="https://github.com/user-attachments/assets/a6a29fa0-5186-499d-9aa8-21d9d2266550" />
-<img width="844" height="557" alt="image" src="https://github.com/user-attachments/assets/4de0e514-add2-4d63-aec0-3d5617d29435" />
+<img width="940" height="1254" alt="image" src="https://github.com/user-attachments/assets/c6d66d7e-b9fe-4c49-b840-2bc96baeb83e" />
+
+
